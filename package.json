@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Pranay21/project-setup/issues"
   },
-  "homepage": "https://github.com/Pranay21/project-setup#readme"
+  "homepage": "https://github.com/Pranay21/project-setup#readme",
+  "devDependencies": {
+    "prettier": "1.14.3"
+  }
 }
